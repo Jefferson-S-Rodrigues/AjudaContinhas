@@ -104,3 +104,10 @@ dist
 .tern-port
 
 package-lock.json
+/back/aritmetica/migrations/
+/back/atividades/migrations/
+/back/continhas/settings.py
+/back/descricao/migrations/
+.idea/
+back/.idea
+back/db.sqlite3
